@@ -1,4 +1,4 @@
-<img align="center" alt="bio" width="400" src="<img align="center" alt="bio" width="400" src="https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg">
+<img align="center" alt="bio" width="100%" src="[https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg](https://i.pinimg.com/564x/98/6e/9a/986e9a906aedf89119e236d98721f61c.jpg)">
 <h1 align="center">Hi 👋, I'm Iheb Timoumi</h1>
 <h3 align="center">A passionate Web developer</h3>
 
