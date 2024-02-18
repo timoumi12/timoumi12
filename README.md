@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)](https://github.com/timoumi12)
 <h1 align="center">Hi 👋, I'm Iheb Timoumi</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
