@@ -2,10 +2,9 @@
 <h3 align="center">DevOps Engineer | Cloud • Automation • CI/CD</h3>
 
 - 🔧 Focused on **DevOps, Cloud Infrastructure, and Automation**
-- 🌱 Currently learning **Kubernetes, Terraform, CI/CD pipelines**
-- 🎓 Student at **ALX Africa Program**
+- 🌱 Always learning and staying up to date with **Kubernetes**
 - 🧠 Strong interest in **Linux, System Administration, and Platform Engineering**
-- 📫 Reach me at **ihebtimoumi12@gmail.com**
+- 📫 Reach me at **iheeb.timoumi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
