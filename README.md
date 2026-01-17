@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="left">DevOps • Cloud • Automation Stack:</h3>
+<h3 align="left">DevOps • Cloud • Platform Engineering Stack:</h3>
 <p align="left">
 
   <a href="https://www.linux.org/" target="_blank">
@@ -34,6 +34,10 @@
          alt="kubernetes" width="40" height="40"/>
   </a>
 
+  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg"
+         alt="argocd" width="40" height="40"/>
+  </a>
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
          alt="jenkins" width="40" height="40"/>
@@ -48,8 +52,34 @@
   </a>
 
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png)"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
          alt="aws" width="40" height="40"/>
+  </a>
+
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
+         alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
+         alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
+         alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
+         alt="kibana" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.vaultproject.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg"
+         alt="vault" width="40" height="40"/>
+  </a>
+  <a href="https://www.keycloak.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg"
+         alt="keycloak" width="40" height="40"/>
   </a>
 
   <a href="https://www.python.org/" target="_blank">
