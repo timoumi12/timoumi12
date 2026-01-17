@@ -3,7 +3,10 @@
 
 - 🔧 Focused on **DevOps, Cloud Infrastructure, and Automation**
 - 🌱 Always learning and staying up to date with **Kubernetes**
+- 🎓 <strong>ALX Africa Graduate</strong>
+  (<a href="https://drive.google.com/file/d/15dYPeETpvC1dpme4sRChrzlCka7goGCA/view" target="_blank">View Certificate</a>)
 - 🧠 Strong interest in **Linux, System Administration, and Platform Engineering**
+- 🌱 Currently deepening skills in **Platform Security**
 - 📫 Reach me at **iheeb.timoumi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,15 +19,17 @@
          width="40" />
   </a>
 </p>
-
 <h3 align="left">DevOps • Cloud • Platform Engineering Stack:</h3>
+<h2 align="left">Operating Systems</h2>
 <p align="left">
-
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
          alt="linux" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Containers & Orchestration</h2>
+<p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
          alt="docker" width="40" height="40"/>
@@ -33,7 +38,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
          alt="kubernetes" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">CI/CD & GitOps</h2>
+<p align="left">
   <a href="https://argo-cd.readthedocs.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg"
          alt="argocd" width="40" height="40"/>
@@ -50,12 +58,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
          alt="terraform" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Cloud Platforms</h2>
+<p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
          alt="aws" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Observability & Monitoring</h2>
+<p align="left">
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
          alt="prometheus" width="40" height="40"/>
@@ -72,7 +86,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
          alt="kibana" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Security & Identity</h2>
+<p align="left">
   <a href="https://www.vaultproject.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg"
          alt="vault" width="40" height="40"/>
@@ -81,7 +98,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg"
          alt="keycloak" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Programming & Scripting</h2>
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="python" width="40" height="40"/>
@@ -90,12 +110,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
          alt="java" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Web & Databases</h2>
+<p align="left">
   <a href="https://www.nginx.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
          alt="nginx" width="40" height="40"/>
   </a>
-
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="mysql" width="40" height="40"/>
@@ -104,10 +126,12 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
          alt="mssql" width="40" height="40"/>
   </a>
+</p>
 
+<h2 align="left">Version Control</h2>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
          alt="git" width="40" height="40"/>
   </a>
-
 </p>
