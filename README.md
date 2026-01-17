@@ -27,6 +27,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
          alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"
+         alt="rhel" width="40" height="40"/>
+  </a>
 
   <!-- Containers & Orchestration -->
   <a href="https://www.docker.com/" target="_blank">
